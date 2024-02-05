@@ -1,0 +1,5 @@
+IP: 130.193.55.7;
+name_taski: https://yandexproject.hopto.org;
+name_kittygram: https://kittygramproject.sytes.net;
+login: yc-user;
+password: 22332233;
